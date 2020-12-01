@@ -1,0 +1,97 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://delix.xyz/assets/comic5.jpg",
+    "size": "full",
+    "aspectRatio": "20:30",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "md",
+    "contents": [
+      {
+        "type": "text",
+        "text": "DEFLIX",
+        "wrap": true,
+        "weight": "bold",
+        "gravity": "center",
+        "size": "xl"
+      },
+      {
+        "type": "text",
+        "text": "SMANSATARA STUDIO",
+        "wrap": true,
+        "weight": "bold",
+        "gravity": "center",
+        "size": "lg"
+      },
+      {
+        "type": "text",
+        "text": "Comic 5",
+        "wrap": true,
+        "weight": "bold",
+        "gravity": "center",
+        "size": "md"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tayang",
+                "color": "#aaaaaa",
+                "size": "sm",
+                "flex": 1
+              },
+              {
+                "type": "text",
+                "text": "Sekarang",
+                "wrap": true,
+                "size": "sm",
+                "color": "#666666",
+                "flex": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "xxl",
+        "contents": [
+          {
+            "type": "spacer"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Mulai Film",
+              "uri": "https://delix.xyz/assets/comic5.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "text": "Anda dapat menonton dengan menekan tombol 'Mulai Film",
+            "color": "#aaaaaa",
+            "wrap": true,
+            "margin": "xxl",
+            "size": "xs"
+          }
+        ]
+      }
+    ]
+  }
+}

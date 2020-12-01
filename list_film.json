@@ -1,0 +1,239 @@
+{
+  "type": "carousel",
+  "contents": [
+	{
+	  "type": "bubble",
+	  "hero": {
+		"type": "image",
+		"url": "https://delix.xyz/assets/5m.jpg",
+		"size": "full",
+		"aspectRatio": "20:30",
+		"aspectMode": "cover",
+		"align": "end"
+	  },
+	  "body": {
+		"type": "box",
+		"layout": "vertical",
+		"spacing": "md",
+		"contents": [
+		  {
+			"type": "text",
+			"text": "Smansatara Studio",
+			"size": "xl",
+			"weight": "bold"
+		  },
+		  {
+			"type": "box",
+			"layout": "vertical",
+			"spacing": "sm",
+			"contents": [
+			  {
+				"type": "box",
+				"layout": "baseline",
+				"contents": [
+				  {
+					"type": "text",
+					"text": "5 m",
+					"weight": "bold",
+					"margin": "sm",
+					"flex": 0
+				  },
+				  {
+					"type": "text",
+					"text": "Gratis",
+					"size": "sm",
+					"align": "end",
+					"color": "#aaaaaa"
+				  }
+				]
+			  }
+			]
+		  },
+		  {
+			"type": "text",
+			"wrap": true,
+			"color": "#aaaaaa",
+			"size": "xxs",
+			"text": "Di atas awan puncak tertinggi Kalimantan, mager, gabut, halu, bucin, santuy, bar-bar, tidak mengubah apa-apa."
+		  }
+		]
+	  },
+	  "footer": {
+		"type": "box",
+		"layout": "vertical",
+		"contents": [
+		  {
+			"type": "spacer",
+			"size": "xxl"
+		  },
+		  {
+			"type": "button",
+			"style": "primary",
+			"color": "#905c44",
+			"action": {
+			  "type": "message",
+			  "label": "Pesan",
+			  "text": "/pesan-film-1"
+			}
+		  }
+		]
+	  }
+	},
+	{
+	  "type": "bubble",
+	  "hero": {
+		"type": "image",
+		"url": "https://delix.xyz/assets/comic5.jpg",
+		"size": "full",
+		"aspectRatio": "20:30",
+		"aspectMode": "cover",
+		"align": "end"
+	  },
+	  "body": {
+		"type": "box",
+		"layout": "vertical",
+		"spacing": "md",
+		"contents": [
+		  {
+			"type": "text",
+			"text": "Smansatara Studio",
+			"size": "xl",
+			"weight": "bold"
+		  },
+		  {
+			"type": "box",
+			"layout": "vertical",
+			"spacing": "sm",
+			"contents": [
+			  {
+				"type": "box",
+				"layout": "baseline",
+				"contents": [
+				  {
+					"type": "text",
+					"text": "Comic 5",
+					"weight": "bold",
+					"margin": "sm",
+					"flex": 0
+				  },
+				  {
+					"type": "text",
+					"text": "Gratis",
+					"size": "sm",
+					"align": "end",
+					"color": "#aaaaaa"
+				  }
+				]
+			  }
+			]
+		  },
+		  {
+			"type": "text",
+			"wrap": true,
+			"color": "#aaaaaa",
+			"size": "xxs",
+			"text": "Gatau-Gabut Aja. Tukang Nyolong. Sleep Maker."
+		  }
+		]
+	  },
+	  "footer": {
+		"type": "box",
+		"layout": "vertical",
+		"contents": [
+		  {
+			"type": "spacer",
+			"size": "xxl"
+		  },
+		  {
+			"type": "button",
+			"style": "primary",
+			"color": "#905c44",
+			"action": {
+			  "type": "message",
+			  "label": "Pesan",
+			  "text": "/pesan-film-2"
+			}
+		  }
+		]
+	  }
+	},
+	{
+	  "type": "bubble",
+	  "hero": {
+		"type": "image",
+		"url": "https://delix.xyz/assets/beres.jpg",
+		"size": "full",
+		"aspectRatio": "20:30",
+		"aspectMode": "cover",
+		"align": "end"
+	  },
+	  "body": {
+		"type": "box",
+		"layout": "vertical",
+		"spacing": "md",
+		"contents": [
+		  {
+			"type": "text",
+			"text": "Smansatara Studio",
+			"size": "xl",
+			"weight": "bold"
+		  },
+		  {
+			"type": "box",
+			"layout": "vertical",
+			"spacing": "sm",
+			"contents": [
+			  {
+				"type": "box",
+				"layout": "baseline",
+				"contents": [
+				  {
+					"type": "text",
+					"text": "Beres",
+					"weight": "bold",
+					"margin": "sm",
+					"flex": 0
+				  },
+				  {
+					"type": "text",
+					"text": "Gratis",
+					"size": "sm",
+					"align": "end",
+					"color": "#aaaaaa"
+				  }
+				]
+			  }
+			]
+		  },
+		  {
+			"type": "text",
+			"wrap": true,
+			"color": "#aaaaaa",
+			"size": "xxs",
+			"text": "Sebuah pertemuan yang mengesankan.\nLika-Liku Kehidupan Semasa SMA yang dibuat secara epick."
+		  }
+		]
+	  },
+	  "footer": {
+		"type": "box",
+		"layout": "vertical",
+		"contents": [
+		  {
+			"type": "spacer",
+			"size": "xxl"
+		  },
+		  {
+			"type": "button",
+			"style": "primary",
+			"color": "#905c44",
+			"action": {
+			  "type": "message",
+			  "label": "Pesan",
+			  "text": "/pesan-film-3"
+			}
+		  }
+		]
+	  }
+	}
+	]
+}

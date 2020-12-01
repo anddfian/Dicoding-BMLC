@@ -1,0 +1,93 @@
+{
+  "type": "carousel",
+  "contents": [
+	{
+	  "type": "bubble",
+	  "body": {
+		"type": "box",
+		"layout": "vertical",
+		"contents": [
+		  {
+			"type": "text",
+			"weight": "bold",
+			"size": "xl",
+			"text": "List"
+		  },
+		  {
+			"type": "text",
+			"text": "List Film Deflix",
+			"color": "#aaaaaa",
+			"size": "sm",
+			"flex": 1
+		  }
+		  ]
+	  },
+	  "footer": {
+		"type": "box",
+		"layout": "vertical",
+		"spacing": "sm",
+		"contents": [
+		  {
+			"type": "button",
+			"style": "link",
+			"height": "sm",
+			"action": {
+			  "type": "message",
+			  "label": "List Film",
+			  "text": "/list film"
+			}
+		  },
+		  {
+			"type": "spacer",
+			"size": "sm"
+		  }
+		],
+		"flex": 0
+	  }
+	},
+		{
+	  "type": "bubble",
+	  "body": {
+		"type": "box",
+		"layout": "vertical",
+		"contents": [
+		  {
+			"type": "text",
+			"weight": "bold",
+			"size": "xl",
+			"text": "Kontak Admin Deflix"
+		  },
+		  {
+			"type": "text",
+			"text": "Ada kritik dan saran?\nNgobrol yuk",
+			"color": "#aaaaaa",
+			"size": "sm",
+			"flex": 1
+		  }
+		  ]
+	  },
+	  "footer": {
+		"type": "box",
+		"layout": "vertical",
+		"spacing": "sm",
+		"contents": [
+		  {
+			"type": "button",
+			"style": "link",
+			"height": "sm",
+			"action": {
+			  "type": "uri",
+			  "label": "Chat Admin Deflix",
+			  "uri": "https://line.me/ti/p/DVyeJ9vH0Y"
+			}
+		  },
+		  {
+			"type": "spacer",
+			"size": "sm"
+		  }
+		],
+		"flex": 0
+	  }
+	}
+	]
+}
